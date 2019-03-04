@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Abel');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Staatliches');
+body {
+	margin: 0;
+	background-color: black;
+	}
+	
+nav {
+	font-family: 'Roboto', sans-serif;
+	background-color: black;
+	padding-top: 5px;
+	padding-bottom: 5px;
+    /* position: fixed; /* Set the navbar to fixed position */
+    /*top: 0; /* Position the navbar at the top of the page */
+    /*width: 100%; /* Full width */
+}
+a {
+	text-decoration: none;
+	color: lightblue;
+}
+a:hover {
+	color: orange;
+}
+header {
+	background-image: url("backgroundseemless.jpg");
+	/*margin-top: 67px;*/
+}
+h1, h2 {
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	color: lightblue;
+	margin: 0;
+}
+h1 {
+padding-top: 40px;
+
+}
+h2 {
+padding-bottom: 40px;
+}
+
+.nav {
+	padding-left: 10px;
+}
+	
+	
+div {
+	background-color: rgb(0, 0, 81);
+	font-family: 'Indie Flower', cursive;
+	border-radius: 10px;
+}
+.about {
+	background-color: rgb(0, 0, 120);
+	font-family: 'Indie Flower', cursive;
+	border-radius: 10px;
+	border: solid 3px lightblue;
+	margin-top: 18px;
+}
+h3 {
+	font-family: 'Staatliches', cursive;
+	padding-left: 10px;
+	color: lightblue;
+	padding-top: 5px;
+}
+
+div p {
+	padding-left: 10px;
+	color: lightblue;
+	}
+
+section {
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+h4 {
+	color: lightblue;
+	font-weight: strong;
+	position: fixed; /* Set the navbar to fixed position */
+    top: 40%; /* Position the navbar at the top of the page*/
+	font-family: 'Roboto', sans-serif;
+	border-radius: 4px;
+	background-image: url("backgroundseemless.jpg");
+	padding: 3px;
+	margin-left: 100px;
+}
+h4:hover {
+	color: orange;
+}
+
+.image {
+	border: solid 1px lightblue;
+	margin-left: 10px;
+	width: 25%;
+}
+.limage:hover {
+	border: solid 1px orange;
+	width: 7%;
+}
+.limage {
+	border: solid 1px lightblue;
+	margin-left: 10px;
+	width: 6%;
