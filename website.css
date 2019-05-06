@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 @import url('https://fonts.googleapis.com/css?family=Anton');
 @import url('https://fonts.googleapis.com/css?family=Staatliches');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 body {
 	margin: 0;
 	background-color: black;
@@ -49,7 +50,7 @@ padding-bottom: 40px;
 	
 div {
 	background-color: rgb(0, 0, 81);
-	font-family: 'Indie Flower', cursive;
+	font-family: 'Open Sans', sans-serif;
 	border-radius: 10px;
 }
 .about {
